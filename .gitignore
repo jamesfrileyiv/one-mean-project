@@ -105,3 +105,9 @@ dist
 
 # old copies of files
 *.old 
+
+# Vagrant Folder
+.vagrant/
+
+# MongoDB data
+data/mongodb/*
